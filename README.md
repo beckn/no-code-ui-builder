@@ -1,4 +1,4 @@
-# Agentic UI Builder
+# No-Code UI Builder
 
 The current landscape of Beckn-enabled application development presents significant challenges, particularly in customizing user interfaces across diverse sectors like energy, retail, mobility, and more. Developers and businesses often face substantial overhead, requiring specialized knowledge and extensive manual effort to adapt user interfaces to specific domain requirements.
 
